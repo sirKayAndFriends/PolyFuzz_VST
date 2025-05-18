@@ -28,5 +28,5 @@ I figured there were two kinds of fuzz - one for hippy boomers and one for miser
 the modes after these two contrasting simpsons episodes poking fun at those stereotypes.
 
 ![homer JAY simpson!](/resources/homer.png)
-![NARK!](resources/nark.GIF)
+![NARK!](resources/nark.gif)
 
