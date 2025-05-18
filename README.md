@@ -15,7 +15,7 @@ The two basic models of fuzz here are a Big Muff and a sort of 60s fuzz (like a 
 The Big Muff code is pretty simple.  A basic soft-clip algorithm, filter, boost, hard clip!  This is basically what the original circuit does and it sounds ok.  The "more" switch
 lowers the clipping threshold during the hard-clip phase.
 
-The 60s mode was a bit of a ballache to be honest.  I just couldn't get some of the distortion algorithms to work ([like this one])(https://www.youtube.com/watch?v=rnvEA7SOaSA&t=846s)
+The 60s mode was a bit of a ballache to be honest.  I just couldn't get some of the distortion algorithms to work ([like this one](https://www.youtube.com/watch?v=rnvEA7SOaSA&t=846s))
 so I gave up and worked out a transfer function (using [this](https://www.ampbooks.com/mobile/dsp/preamp/) method) which sounded the best.  The "more" switch inverts the signal
 scales it by 80% and sends it round to be distorted again.  This scaling keeps some of the asymmetrical character.
 
