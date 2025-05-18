@@ -25,7 +25,7 @@ Tone wise I thought having two boost.cut shelving filters for treble and bass wo
 
 ## Why does it look like that?
 I figured there were two kinds of fuzz - one for hippy boomers and one for miserable gen-X-ers (I am a confused Millennial).  I designed the vibes in this regard and named 
-the modes after these two contrasting simpsons episodes poking fun at those stereotypes.
+the modes after these two contrasting simpsons episodes.
 
 ![homer JAY simpson!](/resources/homer.png)
 ![NARK!](resources/nark.gif)
